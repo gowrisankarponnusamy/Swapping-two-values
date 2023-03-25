@@ -17,9 +17,9 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
-'''
-#Program to swap two values.
+```
 #Developed by:Gowrisankar.p
 #RegisterNumber:212222230041
 a=input()
@@ -28,6 +28,7 @@ c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
+```
 
 ##OUTPUT:
 ![output55](https://user-images.githubusercontent.com/119393123/227697572-f26fe0db-b9f3-4c66-8faa-3e1414808214.png)
