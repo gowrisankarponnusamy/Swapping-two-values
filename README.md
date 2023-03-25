@@ -20,8 +20,6 @@ End the program
 
 ## PROGRAM:
 ```
-#Developed by:Gowrisankar.p
-#RegisterNumber:212222230041
 a=input()
 b=input()
 c=a
