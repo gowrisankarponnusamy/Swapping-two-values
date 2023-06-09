@@ -20,6 +20,9 @@ End the program
 
 ## PROGRAM:
 ```
+#program to swap two values
+#Developed by:Gowrisankar.p
+#register number:212222230041
 a=input()
 b=input()
 c=a
@@ -29,7 +32,7 @@ print("Swapped values are:",a,b)
 ```
 
 ##OUTPUT:
-![output55](https://user-images.githubusercontent.com/119393123/227697572-f26fe0db-b9f3-4c66-8faa-3e1414808214.png)
+![image](https://github.com/gowrisankarponnusamy/Swapping-two-values/assets/119393123/741af28a-2c4c-42ea-ab45-8239fc8aa91f)
 
 
 
